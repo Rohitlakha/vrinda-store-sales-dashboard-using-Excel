@@ -25,6 +25,5 @@ This project is an Excel-based interactive sales dashboard built to analyze the 
 - **Sales by Channel** (Amazon, Flipkart, Myntra, Meesho, etc.)
 - **Slicers** for filtering by Month, Channel, and Product Category
 
-## 📁 File Structure
 
 
