@@ -1,44 +1,67 @@
 # 🛍️ Vrinda Store Sales Dashboard - 2022
 
-This project is an Excel-based interactive sales dashboard built to analyze the 2022 performance of Vrinda Store across various dimensions like gender, order status, states, channels, and customer age groups.
+This project showcases **two interactive Excel dashboards** designed to analyze the Vrinda Store’s sales and customer insights for the year 2022. Built using slicers, pivot tables, and dynamic visuals, the dashboards provide an intuitive breakdown of key performance indicators.
 
-## 📊 Dashboard Features
+## 🎨 Dashboard Versions
 
-- **Monthly Orders vs Sales** using combo charts
-- **Sales Distribution** by gender (Men vs Women)
-- **Order Status** breakdown (Delivered, Cancelled, Returned, Refunded)
-- **Top 5 States** with highest sales
-- **Customer Demographics** by age and gender
-- **Sales by Channel** (Amazon, Flipkart, Myntra, Meesho, etc.)
-- **Slicers** for filtering by Month, Channel, and Product Category
+### 🔸 Light Theme Dashboard
+- Classic Excel visuals
+- Clean and professional corporate layout
+- Emphasis on readability and structure
 
+### 🟣 Dark Theme Dashboard
+- Aesthetic & modern design with gradients
+- Enhanced visual engagement
+- Ideal for presentation and reporting
 
-## 📷 Dashboard Preview
+## 📊 Dashboard Insights
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+- **Monthly Orders vs Sales**
+- **Gender-based Sales Distribution**
+- **Order Status Overview (Delivered, Returned, etc.)**
+- **Top Performing States**
+- **Orders by Channel (Amazon, Flipkart, etc.)**
+- **Customer Age vs Gender Trends**
+- **Category-wise Filters**
+
+## 🖼️ Dashboard Previews
+
+### 🔸 Light Theme
+
+![Light Theme Dashboard](assets/dashboard_light_theme.png)
+
+### 🟣 Dark Theme
+
+![Dark Theme Dashboard](assets/dashboard_dark_theme.png)
+
 
 ## 🧰 Tools Used
 
 - Microsoft Excel
 - Pivot Tables & Charts
-- Slicers and Formatting
+- Slicers & Filters
+- Custom Chart Formatting
 
 ## 🚀 How to Use
 
-1. Download the `vrinda_store_2022.xlsx` file from the `data/` folder.
-2. Open in Microsoft Excel (2016 or later recommended).
-3. Interact with the slicers to explore different data insights.
+1. Download the Excel files from the `data/` folder.
+2. Open them using Microsoft Excel (2016 or later recommended).
+3. Interact with slicers to dynamically view data by category, channel, or time.
 
-## 🔮 Future Scope
+## 🔮 Future Enhancements
 
-- Automate data updates using Power Query.
-- Create a similar dashboard in Power BI or Tableau.
-- Add comparative analysis for multiple years.
+- Integrate with Power BI for web dashboards.
+- Automate monthly data feeds using Power Query.
+- Create dashboards for multi-year comparison.
 
 ---
+
 ## 🤝 Connect With Me
 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohit-lakha/)  
+- 🔗 [LinkedIn: Rohit Lakha](https://www.linkedin.com/in/rohitlakha)
+- 📘 Project developed while learning at **Start**
+
+---
 
 **Made with 💡 by Rohit Lakha**
 
