@@ -36,8 +36,11 @@ This project is an Excel-based interactive sales dashboard built to analyze the 
 - Add comparative analysis for multiple years.
 
 ---
+## 🤝 Connect With Me
 
-**Made with 💡 by [Rohit]**
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohit-lakha/)  
+
+**Made with 💡 by Rohit Lakha**
 
 
 
