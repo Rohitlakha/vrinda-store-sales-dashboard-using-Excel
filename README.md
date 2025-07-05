@@ -58,7 +58,7 @@ This project showcases **two interactive Excel dashboards** designed to analyze 
 
 ## 🤝 Connect With Me
 
-- 🔗 [LinkedIn: Rohit Lakha](https://www.linkedin.com/in/rohitlakha)
+- 🔗 [LinkedIn: Rohit Lakha](https://www.linkedin.com/in/rohit-lakha/)
 - 📘 Project developed while learning at **Start**
 
 ---
